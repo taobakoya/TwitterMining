@@ -5,3 +5,4 @@ https://www.google.com/search?q=using+tweet+api+with+jupyter+notebook&source=hp&
 https://gist.github.com/bonzanini/af0463b927433c73784d
 https://marcobonzanini.com/2015/03/09/mining-twitter-data-with-python-part-2/
 https://marcobonzanini.com/python-training/
+https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/
