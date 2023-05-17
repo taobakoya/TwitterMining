@@ -1,0 +1,7 @@
+https://gouldguides.carleton.edu/dataknowledgebase/twitterapi
+https://towardsdatascience.com/discover-insights-from-your-instagram-business-account-with-facebook-graph-api-and-python-81d20ee2e751
+https://www.google.com/search?q=using+jupyter+notebook+to+access+instagram+api&ei=yOJkZI-GD8eB9u8P84-E0Ak&oq=using++jupyter+notebook+to+access+instagram&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAE6CggAEEcQ1gQQsAM6BggAEAcQHjoFCAAQgAQ6BggAEBYQHjoICAAQigUQhgM6CAghEBYQHhAdOgcIIRCgARAKSgQIQRgASgUIQBIBMVC7BljfTWC7YmgBcAF4AIABbIgB3A2SAQQyMS4xmAEAoAEByAEIwAEB&sclient=gws-wiz-serp
+https://www.google.com/search?q=using+tweet+api+with+jupyter+notebook&source=hp&ei=s-JkZNzvBuP-7_UPstGp6Ak&iflsig=AOEireoAAAAAZGTwwz8oDG1qNpMrFbPOylh9NaQo4HwL&oq=using+tweet+api+with+jupyter&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCEQoAEQCjIHCCEQoAEQCjoLCAAQgAQQsQMQgwE6DgguEIAEELEDEMcBENEDOg4ILhCABBCxAxCDARDUAjoFCAAQgAQ6EQguEIAEELEDEIMBEMcBENEDOgsIABCKBRCxAxCDAToRCC4QigUQsQMQgwEQxwEQrwE6BQguEIAEOggIABCABBCxAzoECAAQAzoICAAQigUQsQM6CAgAEBYQHhAKOgYIABAWEB46CAgAEIoFEIYDOgoIABAWEB4QDxAKOggIABAWEB4QDzoHCAAQDRCABDoGCAAQHhANOggIABAFEB4QDToECCEQFToICCEQFhAeEB1QAFjzgQFgp5kBaABwAHgAgAFriAGQEJIBBDI3LjGYAQCgAQE&sclient=gws-wiz
+https://gist.github.com/bonzanini/af0463b927433c73784d
+https://marcobonzanini.com/2015/03/09/mining-twitter-data-with-python-part-2/
+https://marcobonzanini.com/python-training/
